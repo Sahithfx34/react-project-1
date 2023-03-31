@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome",
+      "body": "In an open letter from the Future of Life Institute, signed by Musk, Appleco-founder Steve Wozniak and 2020 presidential candidate Andrew Yang, AI labs were urged to cease training models more powerful than GPT-4, the latest version of the large language model software developed by U.S. startup OpenAI.",
+      "author": "Jimmy",
+      "id": 1
+    },
+    {
+      "title": "This is my WORLD",
+      "body": "“Contemporary AI systems are now becoming human-competitive at general tasks, and we must ask ourselves: Should we let machines flood our information channels with propaganda and untruth?” the letter read. “Should we automate away all the jobs, including the fulfilling ones? Should we develop nonhuman minds that might eventually outnumber, outsmart, obsolete and replace us? Should we risk loss of control of our civilization?” The letter added, “Such decisions must not be delegated to unelected tech leaders.” The Future of Life Institute is a nonprofit organization based in Cambridge, Massachusetts, that campaigns for the responsible and ethical development of artificial intelligence. Its founders include MIT cosmologist Max Tegmark and Skype co-founder Jaan Tallinn. The organization has previously gotten the likes of Musk and Google-owned AI lab DeepMind to promise never to develop lethal autonomous weapons systems.",
+      "author": "Nolin",
+      "id": 2
+    }
+  ]
+}
